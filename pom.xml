@@ -48,8 +48,7 @@ deployment
             </id>
 
             <url>
-http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/
-course-releases
+http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-releases
             </url>
         </repository>
 
@@ -60,8 +59,7 @@ snapshots
             </id>
 
             <url>
-http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/
-course-snapshots
+http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-snapshots
             </url>
         </snapshotRepository>
     </distributionManagement>

@@ -4,8 +4,8 @@
 	<artifactId>hw0-kmandavi</artifactId>
 	<version>0.0.1</version>
 	<scm>
-		<connection>scm:git:git://github.com/kar2905/hw0-kmandavi.git</connection>
-		<developerConnection>scm:git:git://github.com/kar2905/hw0-kmandavi.git</developerConnection>
+		<connection>scm:git://github.com/kar2905/hw0-kmandavi.git</connection>
+		<developerConnection>scm:git://github.com/kar2905/hw0-kmandavi.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
